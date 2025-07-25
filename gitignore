@@ -1,0 +1,32 @@
+# Lingkungan virtual Python
+env/
+venv/
+
+# File bytecode Python
+*.pyc
+__pycache__/
+
+# File konfigurasi sensitif (HARUS DIABAIKAN)
+.env
+
+# Data bot (file SQLite Anda)
+# Kami ingin folder 'data/' di Git, tetapi mengabaikan isinya yang dinamis.
+# Jika Anda ingin folder 'data' terlacaka (dan .gitkeep jika kosong) tapi tidak isinya
+# Jika Anda ingin mengabaikan folder data sepenuhnya: data/
+# Untuk saat ini, kita akan mengabaikan folder 'data' agar tidak ada konflik dengan DB
+data/
+*.db
+*.pickle
+*.csv.bak
+*.log
+
+# Google specific files (if generated locally)
+client_secrets.json
+
+# IDE specific files
+.vscode/
+.idea/
+
+# Aturan eksplisit untuk mengecualikan (jika Anda memiliki aturan inklusi sebelumnya)
+# Contoh: Jika ada *.log, dan Anda ingin melacak important.log, Anda akan menulis:
+# !important.log
