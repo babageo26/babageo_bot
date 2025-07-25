@@ -1,0 +1,18 @@
+Timestamp,Tanggal,Kategori,Prioritas,Deskripsi,Tag,EventID,Status,Keterangan
+2025-07-07 13:36:42,2025-07-14 12:00:00,Kuliah,Tinggi,14 Juli 2025 deadline tugas kalkulus jam 12,Tidak ada,e4acdc45-19e1-4505-b0b7-7e53f0ffb159,Selesai,
+2025-07-07 13:39:46,2025-07-13 03:00:00,Sinkronisasi,Sedang,13 Juli 2025 Deadline tugas Mitigasi Resiko jam 10,Tidak ada,9928b460-0527-4082-ada1-a5db9e75b19a,Selesai,
+2025-07-07 13:39:46,2025-07-13 03:00:00,Sinkronisasi,Sedang,13 Juli 2025 Deadline tugas Mitigasi Resiko jam 10,Tidak ada,f3a4b398-e6d3-4814-b455-393f5b6d3eff,Selesai,
+2025-07-07 13:39:46,2025-07-15 12:30:00,Sinkronisasi,Sedang,tanding Badminton,Tidak ada,bcad18ed-4a53-4592-ac44-a9a99e0ce238,Selesai,
+2025-07-17 08:41:55,2025-07-25 00:00:00,tugas,tinggi,deadline tugas kalkulus 25 Juli 2025 jam 12,followUp,f5d8668e-2f17-4ddb-b2a5-6020bb68f50d,Belum,
+2025-07-17 08:44:44,2025-07-25 12:00:00,tugas,tinggi,deadline tugas kalkulus 25 Juli 2025 jam 12,followUp,f787238e-f292-45bf-bebc-0877679d0174,Belum,
+2025-07-17 08:47:32,2025-07-25 12:00:00,tugas,tinggi,deadline tugas kalkulus   12,followUp,bcc66ff2-f5a7-490e-8ee2-3c16377f47be,Belum,
+2025-07-17 08:50:17,2025-07-25 12:00:00,tugas,tinggi,deadline tugas kalkulus   12,followUp,0103e9dd-765f-4927-a106-8528ae5a8134,Belum,
+2025-07-17 08:53:01,2025-07-25 12:00:00,tugas,tinggi,deadline tugas kalkulus,followUp,1caa9061-7302-4738-af1a-e1f655903cb8,Belum,
+2025-07-17 08:53:15,2025-07-25 08:00:00,tugas,tinggi,deadline tugas kalkulus,followUp,c2ce8fa9-32fe-47b6-bd41-d669ac1f45b4,Belum,
+2025-07-17 09:02:06,2025-07-23 10:00:00,Kuliah,Rendah,tugas Matematika,Tidak ada,9df94785-78b1-46ac-a071-824179c46165,Belum,
+2025-07-17 09:42:19,2025-07-18 10:00:00,Kuliah,Rendah,kalkulus,Tidak ada,3d2d94e8-a61b-44e3-b2a6-c749d6a53f0d,Belum,
+2025-07-17 13:08:58,2025-07-18 19:00:00,Kuliah,Sedang,matematika,Tidak ada,16823c7e-30fa-4ba1-8e83-7be08720ba0c,Belum,
+2025-07-17 13:12:58,2025-07-18 10:00:00,Kuliah,Rendah,matematika,#tugasasik,3f21477a-380b-4d09-95dc-a807b478a856,Belum,kerja kelompok
+2025-07-19 07:36:40,,Project,Sedang,jalan-jalan,Tidak ada,97c0c66e-d21f-4c4b-a03b-ca6b41777f12,Belum,
+2025-07-19 07:42:36,,Personal,Tinggi,membaca buku,Tidak ada,12045b82-88c1-4323-9632-79341ae38358,Belum,
+2025-07-20 08:12:13,2025-07-21T10:00+07:00,Kuliah,Sedang,Machine learning,Tidak ada,344d3051-d235-4f6b-8514-bdf01f6248c7,Belum,
