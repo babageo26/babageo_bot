@@ -1,0 +1,24 @@
+# Lingkungan virtual Python
+env/
+venv/
+
+# File bytecode Python
+*.pyc
+__pycache__/
+
+# File konfigurasi sensitif (HARUS DIABAIKAN)
+.env
+
+# Data bot (file SQLite Anda dan token Google)
+data/
+*.db
+*.pickle
+*.csv.bak
+*.log
+
+# Google specific files (if generated locally)
+client_secrets.json
+
+# IDE specific files
+.vscode/
+.idea/
